@@ -118,7 +118,6 @@
     display: block;
     margin: 0px;
     padding: 0px;
-    border: 5px solid red ;
-   box-sizing: border-box;
+    box-sizing: border-box;
 }
 </style>
